@@ -1,0 +1,17 @@
+{
+  "name": "vapper-poi-example",
+  "private": true,
+  "scripts": {
+    "dev": "vapper dev",
+    "build": "vapper build",
+    "start": "vapper start"
+  },
+  "devDependencies": {
+    "@vapper/configer-poi": "^0.5.5",
+    "@vapper/core": "^0.14.1",
+    "poi": "^12.4.2",
+    "vue": "^2.6.10",
+    "vue-router": "^3.1.3",
+    "vue-template-compiler": "^2.6.10"
+  }
+}
