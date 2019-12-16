@@ -8,7 +8,7 @@
   },
   "devDependencies": {
     "@vapper/configer-poi": "^0.5.5",
-    "@vapper/core": "^0.14.1",
+    "@vapper/core": "^0.17.0",
     "poi": "^12.4.2",
     "vue": "^2.6.10",
     "vue-router": "^3.1.3",
